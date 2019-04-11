@@ -1,7 +1,8 @@
 Flexible Template
 ============
 
-This is a stub template required by the Flexible Layout module.
+This is a stub template required by the Flexible Layout module (version 2 and
+above).
 Flexible Layout module provides a layout with configurable rows, cloumns and
 regions.
 
